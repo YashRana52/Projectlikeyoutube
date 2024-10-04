@@ -1,0 +1,41 @@
+[33mcommit 7848d00ccb9b6252c336077a0e0531eef49ddc46[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Yash Kumar Rana <2200520100072@ietlucknow.ac.in>
+Date:   Fri Oct 4 09:24:37 2024 +0530
+
+    controller
+
+[33mcommit 4bd8612005415d1cf64ca37e4b75d1ab5e92769c[m
+Author: Yash Kumar Rana <2200520100072@ietlucknow.ac.in>
+Date:   Thu Oct 3 12:13:50 2024 +0530
+
+    utils code
+
+[33mcommit 537c039382cc8fa8aa2e7f38f5b6c102744be704[m
+Author: Yash Kumar Rana <2200520100072@ietlucknow.ac.in>
+Date:   Thu Oct 3 00:50:15 2024 +0530
+
+    connect to mongoatlast
+
+[33mcommit 3807ade8b7bdbafa3c55bedad3823e231a43ca35[m
+Author: Yash Kumar Rana <2200520100072@ietlucknow.ac.in>
+Date:   Wed Oct 2 17:29:22 2024 +0530
+
+    add prettier config
+
+[33mcommit 5c1d94812db56a12a248cdbf3d7376d9a7d46f05[m
+Author: Yash Kumar Rana <2200520100072@ietlucknow.ac.in>
+Date:   Wed Oct 2 17:09:12 2024 +0530
+
+    add structure changes
+
+[33mcommit 9fab7bae505b656614fa1b5699aca132f203eaa0[m
+Author: Yash Kumar Rana <2200520100072@ietlucknow.ac.in>
+Date:   Wed Oct 2 17:00:05 2024 +0530
+
+    file create
+
+[33mcommit e72c981eaea510333de2b3c83aa1cc58fad8acc7[m
+Author: Yash Kumar Rana <2200520100072@ietlucknow.ac.in>
+Date:   Wed Oct 2 16:25:37 2024 +0530
+
+    first project of backend
